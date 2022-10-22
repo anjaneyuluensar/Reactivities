@@ -1,0 +1,12 @@
+/Users/anjanreddy/wrk/dotnet/Reactivities/Domain/bin/Debug/net6.0/Domain.deps.json
+/Users/anjanreddy/wrk/dotnet/Reactivities/Domain/bin/Debug/net6.0/Domain.dll
+/Users/anjanreddy/wrk/dotnet/Reactivities/Domain/bin/Debug/net6.0/Domain.pdb
+/Users/anjanreddy/wrk/dotnet/Reactivities/Domain/obj/Debug/net6.0/Domain.csproj.AssemblyReference.cache
+/Users/anjanreddy/wrk/dotnet/Reactivities/Domain/obj/Debug/net6.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anjanreddy/wrk/dotnet/Reactivities/Domain/obj/Debug/net6.0/Domain.AssemblyInfoInputs.cache
+/Users/anjanreddy/wrk/dotnet/Reactivities/Domain/obj/Debug/net6.0/Domain.AssemblyInfo.cs
+/Users/anjanreddy/wrk/dotnet/Reactivities/Domain/obj/Debug/net6.0/Domain.csproj.CoreCompileInputs.cache
+/Users/anjanreddy/wrk/dotnet/Reactivities/Domain/obj/Debug/net6.0/Domain.dll
+/Users/anjanreddy/wrk/dotnet/Reactivities/Domain/obj/Debug/net6.0/refint/Domain.dll
+/Users/anjanreddy/wrk/dotnet/Reactivities/Domain/obj/Debug/net6.0/Domain.pdb
+/Users/anjanreddy/wrk/dotnet/Reactivities/Domain/obj/Debug/net6.0/ref/Domain.dll
